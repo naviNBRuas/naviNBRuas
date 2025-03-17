@@ -29,6 +29,4 @@ I'm currently working on several projects. Detailed information about these proj
 
 ## 🔗 Links
 
-- **Replit**: [@navinbr](https://replit.com/@navinbr)
-
 Feel free to connect with me or check out my work on Replit.
