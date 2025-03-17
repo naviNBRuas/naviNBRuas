@@ -1,4 +1,4 @@
-# 💬 Navin
+# 💬 Navin Ruas
 
 **Cybersecurity Enthusiast and Computer Engineering Student at UNB**
 
