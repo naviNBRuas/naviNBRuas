@@ -45,9 +45,7 @@
 
 ## 📊 GitHub Stats  
 
-![Navin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=naviNBRuas&show_icons=true&theme=radical&count_private=true)  
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naviNBRuas&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
+![Navin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=naviNBRuas&show_icons=true&theme=radical&count_private=true) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naviNBRuas&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
 
 ---
 
