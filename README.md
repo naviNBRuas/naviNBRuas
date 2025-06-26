@@ -22,8 +22,8 @@
         <li><strong>Name:</strong> Navin Ruas</li>
         <li><strong>Location:</strong> Brasília, Brazil</li>
         <li><strong>Education:</strong> Computer Engineering at UNB</li>
-        <li><strong>Email:</strong> <a href="mailto:contact@nbr.company">contact@nbr.company</a></li>
-        <li><strong>Portfolio:</strong> <a href="https://navinbruas.nbr.company" target="_blank">navinbruas.nbr.company</a></li>
+        <li><strong>Email:</strong> <a href="mailto:contact@nbr.company">founder@nbr.company</a></li>
+        <li><strong>Portfolio:</strong> <a href="https://founder.nbr.company" target="_blank">founder.nbr.company</a></li>
       </ul>
     </td>
     <td valign="top" width="45%">
