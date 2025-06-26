@@ -104,10 +104,10 @@
 
 <h2 align="center">🔗 Connect with Me</h2>
 <p align="center">
-  <a href="https://navinbruas.nbr.company" target="_blank">
+  <a href="https://founder.nbr.company" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Site-blue?style=for-the-badge&logo=google-chrome" alt="Portfolio" />
   </a>
-  <a href="mailto:contact@nbr.company" target="_blank">
+  <a href="mailto:founder@nbr.company" target="_blank">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
 </p>
