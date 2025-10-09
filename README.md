@@ -18,25 +18,21 @@
 ---
 
 <!-- Personal Info & Fun Facts (Two-Column Layout) -->
-<div align="center" style="display:flex; justify-content:center; gap:4rem; flex-wrap:wrap;">
+<div align="center" style="display:flex; justify-content:center; gap:4rem; flex-wrap:wrap; text-align:left;">
   <div>
     <h3>Personal Info</h3>
-    <ul>
-      <li><strong>Name:</strong> Navin Ruas</li>
-      <li><strong>Location:</strong> Brasília, Brazil</li>
-      <li><strong>Education:</strong> Computer Engineering at UNB</li>
-      <li><strong>Email:</strong> <a href="mailto:founder@nbr.company">founder@nbr.company</a></li>
-      <li><strong>Portfolio:</strong> <a href="https://founder.nbr.company" target="_blank">founder.nbr.company</a></li>
-    </ul>
+    <p><strong>Name:</strong> Navin Ruas</p>
+    <p><strong>Location:</strong> Brasília, Brazil</p>
+    <p><strong>Education:</strong> Computer Engineering at UNB</p>
+    <p><strong>Email:</strong> <a href="mailto:founder@nbr.company">founder@nbr.company</a></p>
+    <p><strong>Portfolio:</strong> <a href="https://founder.nbr.company" target="_blank">founder.nbr.company</a></p>
   </div>
   <div>
     <h3>Fun Facts</h3>
-    <ul>
-      <li>I love unraveling intricate security puzzles.</li>
-      <li>AI and cybersecurity are my dynamic duo.</li>
-      <li>I'm as passionate about coding as I am about coffee!</li>
-      <li>I believe in continuous learning and growth.</li>
-    </ul>
+    <p>I love unraveling intricate security puzzles.</p>
+    <p>AI and cybersecurity are my dynamic duo.</p>
+    <p>I'm as passionate about coding as I am about coffee!</p>
+    <p>I believe in continuous learning and growth.</p>
   </div>
 </div>
 
