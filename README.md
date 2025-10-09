@@ -17,11 +17,11 @@
 
 ---
 
-<!-- Personal Info & Fun Facts (Side by Side Boxes) -->
-<table align="center" style="border-collapse: separate; border-spacing: 1rem;">
+<!-- Personal Info & Fun Facts Side by Side -->
+<table align="center">
   <tr>
-    <!-- Personal Info Box -->
-    <td style="border:1px solid rgba(255,255,255,0.2); border-radius:10px; padding:1rem 2rem; width:300px; vertical-align:top;">
+    <!-- Personal Info Column -->
+    <td style="padding: 0 2rem; vertical-align: top;">
       <h3>Personal Info</h3>
       <p>• <strong>Name:</strong> Navin Ruas</p>
       <p>• <strong>Location:</strong> Brasília, Brazil</p>
@@ -30,8 +30,8 @@
       <p>• <strong>Portfolio:</strong> <a href="https://founder.nbr.company" target="_blank">founder.nbr.company</a></p>
     </td>
 
-    <!-- Fun Facts Box -->
-    <td style="border:1px solid rgba(255,255,255,0.2); border-radius:10px; padding:1rem 2rem; width:300px; vertical-align:top;">
+    <!-- Fun Facts Column -->
+    <td style="padding: 0 2rem; vertical-align: top;">
       <h3>Fun Facts</h3>
       <p>• I love unraveling intricate security puzzles.</p>
       <p>• AI and cybersecurity are my dynamic duo.</p>
