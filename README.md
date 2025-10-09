@@ -17,27 +17,30 @@
 
 ---
 
-<!-- Personal Info & Fun Facts Side by Side (Inline Blocks) -->
-<div align="center">
-
-  <div style="display:inline-block; width:300px; vertical-align:top; text-align:left; margin-right:20px;">
-    <h3>Personal Info</h3>
-    <p>• <strong>Name:</strong> Navin Ruas</p>
-    <p>• <strong>Location:</strong> Brasília, Brazil</p>
-    <p>• <strong>Education:</strong> Computer Engineering at UNB</p>
-    <p>• <strong>Email:</strong> <a href="mailto:founder@nbr.company">founder@nbr.company</a></p>
-    <p>• <strong>Portfolio:</strong> <a href="https://founder.nbr.company" target="_blank">founder.nbr.company</a></p>
-  </div>
-
-  <div style="display:inline-block; width:300px; vertical-align:top; text-align:left;">
-    <h3>Fun Facts</h3>
-    <p>• I love unraveling intricate security puzzles.</p>
-    <p>• AI and cybersecurity are my dynamic duo.</p>
-    <p>• I'm as passionate about coding as I am about coffee!</p>
-    <p>• I believe in continuous learning and growth.</p>
-  </div>
-
-</div>
+<!-- Personal Info & Fun Facts (Two-Column Layout) -->
+<table align="center">
+  <tr>
+    <td valign="top" width="45%" style="padding: 0 1rem;">
+      <h3>Personal Info</h3>
+      <ul>
+        <li><strong>Name:</strong> Navin Ruas</li>
+        <li><strong>Location:</strong> Brasília, Brazil</li>
+        <li><strong>Education:</strong> Computer Engineering at UNB</li>
+        <li><strong>Email:</strong> <a href="mailto:founder@nbr.company">founder@nbr.company</a></li>
+        <li><strong>Portfolio:</strong> <a href="https://founder.nbr.company" target="_blank">founder.nbr.company</a></li>
+      </ul>
+    </td>
+    <td valign="top" width="45%" style="padding: 0 1rem;">
+      <h3>Fun Facts</h3>
+      <ul>
+        <li>I love unraveling intricate security puzzles.</li>
+        <li>AI and cybersecurity are my dynamic duo.</li>
+        <li>I'm as passionate about coding as I am about coffee!</li>
+        <li>I believe in continuous learning and growth.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
