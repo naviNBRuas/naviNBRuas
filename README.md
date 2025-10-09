@@ -96,8 +96,8 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naviNBRuas&show_icons=true&theme=radical&count_private=true" alt="Navin's GitHub Stats" />&emsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naviNBRuas&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naviNBRuas\&show_icons=true&layout=donut-vertical&count_private=true" alt="Navin's GitHub Stats" />&emsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=naviNBRuas\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Top Languages" />
 </p>
 
 ---
