@@ -17,23 +17,28 @@
 
 ---
 
-<!-- Personal Info & Fun Facts (Two-Column Layout) -->
-<div align="center" style="display:flex; justify-content:center; gap:4rem; flex-wrap:wrap; text-align:left;">
-  <div>
+<!-- Personal Info & Fun Facts (Two-Column Boxes) -->
+<div align="center" style="display:flex; justify-content:center; gap:2rem; flex-wrap:wrap; margin-top:1rem;">
+  
+  <!-- Personal Info Box -->
+  <div style="border:1px solid rgba(255,255,255,0.2); border-radius:10px; padding:1rem 2rem; width:300px; text-align:left; backdrop-filter:blur(5px);">
     <h3>Personal Info</h3>
-    <p><strong>Name:</strong> Navin Ruas</p>
-    <p><strong>Location:</strong> Brasília, Brazil</p>
-    <p><strong>Education:</strong> Computer Engineering at UNB</p>
-    <p><strong>Email:</strong> <a href="mailto:founder@nbr.company">founder@nbr.company</a></p>
-    <p><strong>Portfolio:</strong> <a href="https://founder.nbr.company" target="_blank">founder.nbr.company</a></p>
+    <p>• <strong>Name:</strong> Navin Ruas</p>
+    <p>• <strong>Location:</strong> Brasília, Brazil</p>
+    <p>• <strong>Education:</strong> Computer Engineering at UNB</p>
+    <p>• <strong>Email:</strong> <a href="mailto:founder@nbr.company">founder@nbr.company</a></p>
+    <p>• <strong>Portfolio:</strong> <a href="https://founder.nbr.company" target="_blank">founder.nbr.company</a></p>
   </div>
-  <div>
+  
+  <!-- Fun Facts Box -->
+  <div style="border:1px solid rgba(255,255,255,0.2); border-radius:10px; padding:1rem 2rem; width:300px; text-align:left; backdrop-filter:blur(5px);">
     <h3>Fun Facts</h3>
-    <p>I love unraveling intricate security puzzles.</p>
-    <p>AI and cybersecurity are my dynamic duo.</p>
-    <p>I'm as passionate about coding as I am about coffee!</p>
-    <p>I believe in continuous learning and growth.</p>
+    <p>• I love unraveling intricate security puzzles.</p>
+    <p>• AI and cybersecurity are my dynamic duo.</p>
+    <p>• I'm as passionate about coding as I am about coffee!</p>
+    <p>• I believe in continuous learning and growth.</p>
   </div>
+
 </div>
 
 ---
