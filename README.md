@@ -99,16 +99,13 @@
 </p>
 
 ---
-
+<!--
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-  <!-- Overall GitHub stats with dark theme -->
   <img src="https://github-readme-stats.vercel.app/api?username=naviNBRuas&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true" alt="Navin's GitHub Stats" />&emsp;
-
-  <!-- Top Languages with donut layout -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naviNBRuas&layout=donut-vertical&count_private=true&theme=dark&hide_border=true" alt="Navin's Top Languages" />
 </p>
-
+-->
 <!-- Uncomment and fill when you have projects -->
 <!--
 <h2 align="center">🚀 Featured Projects</h2>
@@ -120,9 +117,8 @@
     <img src="https://img.shields.io/badge/Project2-Security-red?style=for-the-badge" />
   </a>
 </p>
--->
-
 ---
+-->
 
 <h2 align="center">🔗 Connect with Me</h2>
 <p align="center">
