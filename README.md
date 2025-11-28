@@ -123,18 +123,26 @@
 </div>
 <br>
 <h2 align="center">🔗 Connect with Me</h2>
-<p align="center">
-  <a href="https://github.com/naviNBRuas" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub" />
+
+<p align="center" style="display:flex; gap:8px; justify-content:center; flex-wrap:wrap; padding:0; margin:0;">
+  <a href="https://github.com/naviNBRuas" target="_blank" style="display:flex;">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white&borderRadius=9999" alt="GitHub" />
   </a>
-  <a href="https://gitlab.com/navinbruas" target="_blank">
-    <img src="https://img.shields.io/badge/GitLab-Follow-orange?style=for-the-badge&logo=gitlab" alt="GitLab" />
+
+  <a href="https://gitlab.com/navinbruas" target="_blank" style="display:flex;">
+    <img src="https://img.shields.io/badge/GitLab-Follow-orange?style=for-the-badge&logo=gitlab&logoColor=white&borderRadius=9999" alt="GitLab" />
   </a>
-  <a href="https://replit.com/@navinbruas" target="_blank">
-    <img src="https://img.shields.io/badge/Replit-View-blue?style=for-the-badge&logo=replit" alt="Replit" />
+
+  <a href="https://replit.com/@navinbruas" target="_blank" style="display:flex;">
+    <img src="https://img.shields.io/badge/Replit-View-blue?style=for-the-badge&logo=replit&logoColor=white&borderRadius=9999" alt="Replit" />
   </a>
-  <a href="https://codepen.io/naviNBRuas" target="_blank">
-    <img src="https://img.shields.io/badge/CodePen-Explore-black?style=for-the-badge&logo=codepen" alt="CodePen" />
+
+  <a href="https://codepen.io/naviNBRuas" target="_blank" style="display:flex;">
+    <img src="https://img.shields.io/badge/CodePen-Explore-black?style=for-the-badge&logo=codepen&logoColor=white&borderRadius=9999" alt="CodePen" />
+  </a>
+
+  <a href="https://ko-fi.com/navinbruas" target="_blank" style="display:flex;">
+    <img src="https://img.shields.io/badge/Ko--fi-Support%20Me-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white&borderRadius=9999" alt="Ko-fi" />
   </a>
 </p>
 
