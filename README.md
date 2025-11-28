@@ -1,35 +1,26 @@
 <!-- Header & Trophies -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Navin+Ruas;Cybersecurity+%7C+Engineering+%7C+AI;Welcome+to+my+Digital+HQ" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Navin+B.+Ruas;Cybersecurity+%7C+Engineer;Welcome+to+my+Digital+HQ" alt="Typing SVG" />
   </a>
 <br>
-<!-- Animated Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=Hi+there!+I'm+Navin+Ruas;Cybersecurity+Enthusiast;UNB+Computer+Engineering+Student&center=true&width=500&height=50&fontSize=25" alt="Animated Header" />
-</p>
 
 <p align="center">
   <strong style="font-size:1.5em;">Welcome to My GitHub Profile!</strong>
 </p>
 
----
-
 <!-- About Me -->
 <h2 align="center">About Me</h2>
 <p align="center">
-  I'm Navin Ruas – a passionate Cybersecurity Enthusiast and Computer Engineering student at UNB. I dive into ethical hacking, reverse engineering, and explore how AI is transforming cybersecurity. When I'm not coding, you can find me unraveling complex security challenges, contributing to bug bounty programs, or enjoying a good cup of coffee while reading tech articles.
+  I'm Navin B. Ruas – a passionate Cybersecurity Enthusiast and Computer Engineering student at UNB. I dive into ethical hacking, reverse engineering, and explore how AI is transforming cybersecurity. When I'm not coding, you can find me unraveling complex security challenges, contributing to bug bounty programs, or enjoying a good cup of coffee while reading tech articles.
 </p>
-
----
-
 <!-- Personal Info & Fun Facts (Two-Column Layout) -->
 <table align="center">
   <tr>
     <td valign="top" width="45%" style="padding: 0 1rem;">
       <h3>Personal Info</h3>
       <ul>
-        <li><strong>Name:</strong> Navin Ruas</li>
+        <li><strong>Name:</strong> Navin B. Ruas</li>
         <li><strong>Location:</strong> Brasília, Brazil</li>
         <li><strong>Education:</strong> Computer Engineering at UNB</li>
         <li><strong>Email:</strong> <a href="mailto:founder@nbr.company">founder@nbr.company</a></li>
@@ -47,9 +38,6 @@
     </td>
   </tr>
 </table>
-
----
-
 <!-- Tech Stack using skillicons.dev icons -->
 <h2 align="center">My Tech Stack</h2>
 
@@ -95,12 +83,6 @@
   <img src="https://skillicons.dev/icons?i=py" alt="Pandas" width="50" height="50" />
 </p>
 
----
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-	<img src="https://github-profile-trophy.vercel.app/?username=naviNBRuas&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="naviNBRuas Trophies" />
-</a>
-</div>
----
 
 <h2 align="center">🏅 Certifications & Courses</h2>
 <p align="center">
@@ -108,8 +90,10 @@
     <img src="https://img.shields.io/badge/Certifications-View%20My%20Progress-brightgreen?style=for-the-badge" alt="Certifications" />
   </a>
 </p>
-
----
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+	<img src="https://github-profile-trophy.vercel.app/?username=naviNBRuas&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="naviNBRuas Trophies" />
+</a>
+</div>
 <!--
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
@@ -130,8 +114,6 @@
 </p>
 ---
 -->
-
----
 <!-- Full Width Graphs -->
 <div align="center">
   <br>
@@ -140,17 +122,15 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=naviNBRuas&bg_color=0d1117&color=ffffff&line=58A6FF&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" width="95%" />
 </div>
 <br>
----
-
 <h2 align="center">🔗 Connect with Me</h2>
 <p align="center">
   <a href="https://github.com/naviNBRuas" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
-  <a href="https://gitlab.com/navinbr" target="_blank">
+  <a href="https://gitlab.com/navinbruas" target="_blank">
     <img src="https://img.shields.io/badge/GitLab-Follow-orange?style=for-the-badge&logo=gitlab" alt="GitLab" />
   </a>
-  <a href="https://replit.com/@navinbr" target="_blank">
+  <a href="https://replit.com/@navinbruas" target="_blank">
     <img src="https://img.shields.io/badge/Replit-View-blue?style=for-the-badge&logo=replit" alt="Replit" />
   </a>
   <a href="https://codepen.io/naviNBRuas" target="_blank">
