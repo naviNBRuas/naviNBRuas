@@ -58,7 +58,6 @@
   <img src="https://skillicons.dev/icons?i=wasm" width="50" />
   <img src="https://skillicons.dev/icons?i=regex" width="50" />
   <img src="https://skillicons.dev/icons?i=bash" width="50" />
-  <img src="https://skillicons.dev/icons?i=assembly" width="50" />
 </p>
 
 <h3 align="center">🔥 Web & Full Stack Development</h3>
