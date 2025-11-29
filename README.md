@@ -43,49 +43,78 @@
 
 <h3 align="center">🔧 Programming & Scripting</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py" alt="Python" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=c" alt="C" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=rust" alt="Rust" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=go" alt="Go" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=java" width="50" />
+  <img src="https://skillicons.dev/icons?i=py" width="50" />
+  <img src="https://skillicons.dev/icons?i=js" width="50" />
+  <img src="https://skillicons.dev/icons?i=ts" width="50" />
+  <img src="https://skillicons.dev/icons?i=html" width="50" />
+  <img src="https://skillicons.dev/icons?i=css" width="50" />
+  <img src="https://skillicons.dev/icons?i=react" width="50" />
+  <img src="https://skillicons.dev/icons?i=c" width="50" />
+  <img src="https://skillicons.dev/icons?i=cpp" width="50" />
+  <img src="https://skillicons.dev/icons?i=rust" width="50" />
+  <img src="https://skillicons.dev/icons?i=perl" width="50" />
+  <img src="https://skillicons.dev/icons?i=php" width="50" />
+  <img src="https://skillicons.dev/icons?i=wasm" width="50" />
+  <img src="https://skillicons.dev/icons?i=regex" width="50" />
+  <img src="https://skillicons.dev/icons?i=bash" width="50" />
+  <img src="https://skillicons.dev/icons?i=assembly" width="50" />
 </p>
 
 <h3 align="center">🔥 Web & Full Stack Development</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=nextjs" width="50" />
+  <img src="https://skillicons.dev/icons?i=nodejs" width="50" />
+  <img src="https://skillicons.dev/icons?i=express" width="50" />
+  <img src="https://skillicons.dev/icons?i=vite" width="50" />
+  <img src="https://skillicons.dev/icons?i=tailwind" width="50" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="50" />
+  <img src="https://skillicons.dev/icons?i=sass" width="50" />
+  <img src="https://skillicons.dev/icons?i=webpack" width="50" />
 </p>
 
-<h3 align="center">🔐 Security & Infrastructure</h3>
+<h3 align="center">🔐 Security, Infra & DevOps</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kali" alt="Kali Linux" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=ipfs" alt="IPFS" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=kali" width="50" />
+  <img src="https://skillicons.dev/icons?i=linux" width="50" />
+  <img src="https://skillicons.dev/icons?i=docker" width="50" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" width="50" />
+  <img src="https://skillicons.dev/icons?i=nginx" width="50" />
+  <img src="https://skillicons.dev/icons?i=cloudflare" width="50" />
+  <img src="https://skillicons.dev/icons?i=git" width="50" />
+  <img src="https://skillicons.dev/icons?i=githubactions" width="50" />
+  <img src="https://skillicons.dev/icons?i=ansible" width="50" />
+  <img src="https://skillicons.dev/icons?i=terraform" width="50" />
+  <img src="https://skillicons.dev/icons?i=ipfs" width="50" />
 </p>
 
-<h3 align="center">⚡ AI & Data Science</h3>
+<h3 align="center">⚡ AI, Data & Research</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=sklearn" alt="Scikit-Learn" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=py" alt="Pandas" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=pytorch" width="50" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" width="50" />
+  <img src="https://skillicons.dev/icons?i=opencv" width="50" />
+  <img src="https://skillicons.dev/icons?i=sklearn" width="50" />
+  <img src="https://skillicons.dev/icons?i=matlab" width="50" />
+  <img src="https://skillicons.dev/icons?i=r" width="50" />
 </p>
 
+<h3 align="center">🛠 Tools, Platforms & Ecosystem</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode" width="50" />
+  <img src="https://skillicons.dev/icons?i=figma" width="50" />
+  <img src="https://skillicons.dev/icons?i=notion" width="50" />
+  <img src="https://skillicons.dev/icons?i=obsidian" width="50" />
+  <img src="https://skillicons.dev/icons?i=postman" width="50" />
+  <img src="https://skillicons.dev/icons?i=redis" width="50" />
+  <img src="https://skillicons.dev/icons?i=mysql" width="50" />
+  <img src="https://skillicons.dev/icons?i=sqlite" width="50" />
+  <img src="https://skillicons.dev/icons?i=cloudflare" width="50" />
+</p>
 
 <h2 align="center">🏅 Certifications & Accomplishments</h2>
 <p align="center">
+  <p align="center"><b>Key Areas:</b> Malware Development, DFIR, Threat Modeling, Cloud Security, Forensics, VAPT, Excel VBA, OS Security, IA-CM, LGPD, Drone Ops</p>
+
   <a href="https://github.com/naviNBRuas/certificateRepo" target="_blank">
     <img src="https://img.shields.io/badge/Certifications-View%20My%20Progress-brightgreen?style=for-the-badge" alt="Certifications" />
   </a>
@@ -128,6 +157,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=naviNBRuas&bg_color=0d1117&color=ffffff&line=58A6FF&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" width="95%" />
 </div>
 <br>
+
 <h2 align="center">🔗 Connect with Me</h2>
 
 <p align="center" style="display:flex; gap:8px; justify-content:center; flex-wrap:wrap; padding:0; margin:0;">
