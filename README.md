@@ -84,7 +84,7 @@
 </p>
 
 
-<h2 align="center">🏅 Certifications & Courses</h2>
+<h2 align="center">🏅 Certifications & Accomplishments</h2>
 <p align="center">
   <a href="https://github.com/naviNBRuas/certificateRepo" target="_blank">
     <img src="https://img.shields.io/badge/Certifications-View%20My%20Progress-brightgreen?style=for-the-badge" alt="Certifications" />
