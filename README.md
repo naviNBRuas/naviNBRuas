@@ -90,8 +90,14 @@
     <img src="https://img.shields.io/badge/Certifications-View%20My%20Progress-brightgreen?style=for-the-badge" alt="Certifications" />
   </a>
 </p>
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-	<img src="https://github-profile-trophy.vercel.app/?username=naviNBRuas&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="naviNBRuas Trophies" />
+<a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank" rel="noopener noreferrer">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=naviNBRuas&theme=dracula&cache_seconds=86400"
+    alt="naviNBRuas Trophies"
+    style="max-width:100%;height:auto;display:block;"
+    loading="lazy"
+    decoding="async"
+  />
 </a>
 </div>
 <!--
