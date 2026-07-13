@@ -5,7 +5,7 @@
 </p>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Navin+B.+Ruas;Cybersecurity+%7C+Systems+Engineer;Welcome+to+my+Digital+HQ" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Navin+B.+Ruas;Cybersecurity+%7C+Systems+Engineer;Welcome+to+my+Digital+HQ" alt="Typing SVG" />
 </a>
 
 <br>
@@ -42,14 +42,12 @@
 
 ### What I Do
 
-<sub>
-
-- Architect systems, autonomous agents, and security frameworks end-to-end
-- Cybersecurity, automation, and AI aren't hobbies — they're the day job
-- Design and deploy engineered ecosystems, not one-off scripts
-- Build for efficiency, long-term maintainability, and control
-
-</sub>
+<ul>
+<li><sub>Architect systems, autonomous agents, and security frameworks end-to-end</sub></li>
+<li><sub>Cybersecurity, automation, and AI aren't hobbies — they're the day job</sub></li>
+<li><sub>Design and deploy engineered ecosystems, not one-off scripts</sub></li>
+<li><sub>Build for efficiency, long-term maintainability, and control</sub></li>
+</ul>
 
 </td>
 </tr>
