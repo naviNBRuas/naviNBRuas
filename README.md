@@ -43,7 +43,7 @@
 ### What I Do
 
 <ul>
-<li><sub>Architect systems, autonomous agents, and security frameworks</sub></li>
+<li><sub>Architect systems, autonomous agents, and security frameworks from the ground up</sub></li>
 <li><sub>Cybersecurity, automation, and AI are part of my day-to-day</sub></li>
 <li><sub>Design and deploy engineered ecosystems, not one-off scripts</sub></li>
 <li><sub>Build for efficiency, long-term maintainability, and control</sub></li>
