@@ -42,10 +42,14 @@
 
 ### What I Do
 
+<sub>
+
 - Architect systems, autonomous agents, and security frameworks end-to-end
 - Cybersecurity, automation, and AI aren't hobbies — they're the day job
 - Design and deploy engineered ecosystems, not one-off scripts
 - Build for efficiency, long-term maintainability, and control
+
+</sub>
 
 </td>
 </tr>
@@ -145,32 +149,38 @@
 
 <table>
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="50%" align="center">
 
 ### Certifications & Accomplishments
 
+<p align="center">
 Certifications focused on offensive security, DFIR, secure architecture, and
 governance — grounded in practical, hands-on application across real-world
 environments.
+</p>
 
-**Key areas:** Malware Development · DFIR · Threat Modeling · Cloud Security ·
+<p align="center">
+<b>Key areas:</b> Malware Development · DFIR · Threat Modeling · Cloud Security ·
 Forensics · VAPT · Excel VBA · OS Security · IA-CM · LGPD · Drone Ops
+</p>
 
 <a href="https://github.com/naviNBRuas/CertificatesRepo">
   <img src="https://img.shields.io/badge/Certifications-View%20My%20Progress-brightgreen?style=for-the-badge" alt="Certifications" />
 </a>
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="50%" align="center">
 
 ### 🚀 Featured Projects
 
+<p align="center">
 <a href="https://github.com/naviNBRuas/APA"><img src="https://img.shields.io/badge/APA-Autonomous%20Polymorphic%20Agent-111111?style=for-the-badge&logo=go&logoColor=white" /></a>
 <a href="https://github.com/naviNBRuas/MCAOE"><img src="https://img.shields.io/badge/MCAOE-AI%20Analyst%20Workbench-8B0000?style=for-the-badge&logo=python&logoColor=white" /></a>
 <a href="https://github.com/naviNBRuas/QubesAce"><img src="https://img.shields.io/badge/QubesAce-Hardened%20OS%20Architecture-2d2d2d?style=for-the-badge&logo=qubesos&logoColor=white" /></a>
 <a href="https://github.com/naviNBRuas/RustChessEngine"><img src="https://img.shields.io/badge/RustChessEngine-Rust%20%2B%20WASM%20%2B%20React-CE422B?style=for-the-badge&logo=rust&logoColor=white" /></a>
 <a href="https://github.com/naviNBRuas/CacheLRU"><img src="https://img.shields.io/badge/CacheLRU-High--Performance%20Rust-2C2C2C?style=for-the-badge&logo=rust&logoColor=white" /></a>
 <a href="https://github.com/naviNBRuas/SpinningDonut"><img src="https://img.shields.io/badge/SpinningDonut-Pure%20x86--64%20Assembly-0f172a?style=for-the-badge&logo=gnubash&logoColor=white" /></a>
+</p>
 
 </td>
 </tr>
