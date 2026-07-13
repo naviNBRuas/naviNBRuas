@@ -158,8 +158,8 @@ environments.
 </p>
 
 <p align="center">
-<b>Key areas:</b> Malware Development · DFIR · Threat Modeling · Cloud Security ·
-Forensics · VAPT · Excel VBA · OS Security · IA-CM · LGPD · Drone Ops
+<sub><b>Key areas:</b> Malware Development · DFIR · Threat Modeling · Cloud Security ·
+Forensics · VAPT · Excel VBA · OS Security · IA-CM · LGPD · Drone Ops</sub>
 </p>
 
 <a href="https://github.com/naviNBRuas/CertificatesRepo">
